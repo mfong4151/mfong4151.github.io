@@ -3238,7 +3238,7 @@ input, select, textarea {
 		display: flex;
 		justify-content: center;
 		max-height:220px;
-		max-width:auto;
+		min-width:auto;
 		margin-bottom:2rem;
 	}
 
